@@ -11,4 +11,4 @@ and providing real-time feedback.
 - Highlighting missing security elements
 
 - Helping users improve their password strength
-# SCT_CS_3
+
